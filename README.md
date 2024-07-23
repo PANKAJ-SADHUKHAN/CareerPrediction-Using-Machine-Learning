@@ -1,7 +1,7 @@
 # CareerPrediction-Using-Machine-Learning
 This project uses various machine learning algorithms to predict career paths.
 
-![Example Image](images/example.png)
+![Example Image](images/Picture1.png)
 
 ## Installation
 
