@@ -5,10 +5,12 @@ This project uses various machine learning algorithms to predict career paths.
 ## Installation
 
 To install the required packages, run:
+
 pip install -r requirement.txt
 ## Run in Virtual Environment
 
 To install virtual environment, run:
+
 python -m venv <your_venv_name>
 
 ## Dataset
