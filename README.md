@@ -7,4 +7,4 @@ This project uses various machine learning algorithms to predict career paths.
 
 To install the required packages, run:
 
-pip install -r requirements.txt
+pip install -r requirement.txt
